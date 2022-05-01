@@ -7,4 +7,4 @@ Projeto proposto para testar meus conhecimentos em um site para Advogado.
 
 ## Tecnologias usadas
 - HTML
-- CSS.
+- CSS
